@@ -1,4 +1,4 @@
-## Little Taco Shop
+# Little Taco Shop
 
 
 "The Little Taco Shop" website is driven by a genuine passion for food, a commitment to supporting local businesses, and a desire to create a meaningful online platform. By combining web development skills with an understanding of digital marketing strategies, the project aims to contribute to the success and growth of a small business while promoting culinary diversity, healthier food choices, and community engagement.
@@ -8,7 +8,7 @@
 
 
 
- # This project employs HTML, CSS and various SEO techniques -
+ ## This project employs HTML, CSS and various SEO techniques -
 
  1) HTML :
 
