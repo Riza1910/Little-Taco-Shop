@@ -1,5 +1,6 @@
 # Little Taco Shop
 
+The Little Taco shop is a frontend project created using HTML and CSS. It has been created by employing varies SEO stratergies. 
 
 "The Little Taco Shop" website is driven by a genuine passion for food, a commitment to supporting local businesses, and a desire to create a meaningful online platform. By combining web development skills with an understanding of digital marketing strategies, the project aims to contribute to the success and growth of a small business while promoting culinary diversity, healthier food choices, and community engagement.
 
